@@ -1,4 +1,4 @@
-`define pretrained
+`define pretrained //是否加载预训练数据
 `define numLayers 5
 `define dataWidth 31
 `define numNeuronLayer1 30
